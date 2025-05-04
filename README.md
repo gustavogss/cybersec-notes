@@ -13,12 +13,12 @@
 5. 🛠️ [Pentests em Aplicações Web](https://github.com/gustavogss/cybersec-notes/tree/main/Pentests_em_aplicacoes_web_DM) — *Daniel Moreno*  
 6. 🔒 [Pentests em Aplicações Web](https://github.com/gustavogss/cybersec-notes/tree/main/Pentests_em_aplicacoes_web_JA) — *José Augusto Almeida Jr.*  
 7. 📡 [Pentests em Redes Sem Fio](https://github.com/gustavogss/cybersec-notes/tree/main/Pentests_em_redes_sem_fio) — *Daniel Moreno*  
-8. 🚀 [GO HACKING - EHPT](https://github.com/gustavogss/cybersec-notes/tree/main/Gohacking_EHPT)  
-9. 🧬 [GO HACKING - GHADD](https://github.com/gustavogss/cybersec-notes/tree/main/Gohacking_GHADD)  
-10. 🛡️ [GO HACKING - GHC](https://github.com/gustavogss/cybersec-notes/tree/main/Gohacking_GHC)  
-11. 🧰 [GO HACKING - GHSE](https://github.com/gustavogss/cybersec-notes/tree/main/Gohacking_GHSE)  
-12. 🧩 [DESEC - Novo Pentest Profissional](https://github.com/gustavogss/cybersec-notes/tree/main/DESEC-web)  
-13. 📱 [DESEC - Pentest Mobile](https://github.com/gustavogss/cybersec-notes/tree/main/DESEC-mobile)  
+8. 🚀 [EHPT](https://github.com/gustavogss/cybersec-notes/tree/main/Gohacking_EHPT) - GOHACKING  
+9. 🧬 [GHADD](https://github.com/gustavogss/cybersec-notes/tree/main/Gohacking_GHADD) - GOHACKING  
+10. 🛡️ [GHC](https://github.com/gustavogss/cybersec-notes/tree/main/Gohacking_GHC) - GOHACKING   
+11. 🧰 [GHSE](https://github.com/gustavogss/cybersec-notes/tree/main/Gohacking_GHSE) - GOHACKING   
+12. 🧩 [Novo Pentest Profissional](https://github.com/gustavogss/cybersec-notes/tree/main/DESEC-web) - DESEC
+13. 📱 [Pentest Mobile](https://github.com/gustavogss/cybersec-notes/tree/main/DESEC-mobile) - DESEC 
 14. 🎓 [SOLYD](https://github.com/gustavogss/cybersec-notes/tree/main/SOLYD)
 
 ---
