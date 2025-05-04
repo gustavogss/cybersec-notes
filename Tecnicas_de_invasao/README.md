@@ -1,4 +1,6 @@
-# 📄 NDA e Documentos Essenciais para Pentest
+# TÉCNICAS DE INVASÃO
+
+## 📄 NDA e Documentos Essenciais para Pentest
 
 1. **⚠️ É muito importante que o Pentester assine um NDA (Acordo de Confidencialidade)** com a empresa contratante antes de iniciar qualquer atividade de teste. Esse acordo deve ser acompanhado dos seguintes documentos:
 
@@ -23,7 +25,7 @@
 
 ---
 
-# 🧪 7 Sessões do PTES (Penetration Testing Execution Standard)
+## 🧪 7 Sessões do PTES (Penetration Testing Execution Standard)
 
 2. As sete fases principais do PTES são:
 
@@ -57,19 +59,3 @@
    - 🐞 Vulnerabilidades encontradas
 
 ---
-
-# 🛠️ Tipos de Testes de Intrusão
-
-3. **Os principais tipos de testes de intrusão são:**
-
-   i. **⚪ Teste de Caixa Branca (White Box)**  
-   - 📂 O testador tem acesso total às informações do sistema, como código-fonte, diagramas de rede e credenciais.  
-   - 🧑‍💻 Simula um ataque interno com conhecimento privilegiado.
-
-   ii. **⚫ Teste de Caixa Preta (Black Box)**  
-   - 🚪 O testador não tem nenhuma informação prévia sobre o sistema.  
-   - 🕵️ Simula um ataque externo de um invasor sem acesso ao ambiente.
-
-   iii. **⚙️ Teste de Caixa Cinza (Gray Box)**  
-   - 🔐 O testador tem acesso limitado a informações, como credenciais de usuário comum ou documentação parcial.  
-   - 👤 Simula um ataque de alguém com acesso parcial, como um colaborador ou parceiro externo.
