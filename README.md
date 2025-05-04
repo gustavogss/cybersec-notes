@@ -1,7 +1,6 @@
 # 🛡️ Cybersec Notes
 
 📚 Repositório pessoal com **anotações, resumos e referências** sobre segurança cibernética, **pentests**, **AppSec** e tópicos abordados em **livros e materiais de estudo**.  
-🔁 Conteúdos duplicados entre fontes são evitados para garantir diversidade e complementariedade nos estudos.
 
 ---
 
